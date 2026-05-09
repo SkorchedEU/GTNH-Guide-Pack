@@ -1,6 +1,7 @@
 ---
 item_ids:
   - minecraft:book
+  - guidenh:guide
 navigation:
   title: 首页
   icon: minecraft:book
