@@ -12,7 +12,7 @@ date: 2026-05-16
 
 # Vending Machine
 <GameScene wrap="square" align="right">
-  <ImportStructureLib controller="gregtech:gt.blockmachines:2741"/>
+  <ImportStructureLib gtFormed={true} controller="gregtech:gt.blockmachines:2741"/>
 </GameScene>
 
  
