@@ -55,9 +55,9 @@ The <Color id="GREEN">Mass Soldifier</Color> is a direct upgrade from the single
 
 
 
-|   | LV | MV | HV | EV | IV | LuV | ZPM | UV | UHV | UEV | UIV | UMV | UXV | MAX | MAX+ |
-| --------------- | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |
-| Parallels | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 | 120 | 130 | 140 | 150 |
+| LV | MV | HV | EV | IV | LuV | ZPM | UV | UHV | UEV | UIV | UMV | UXV | MAX | MAX+ |
+| --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |
+| 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 | 120 | 130 | 140 | 150 |
 
 
 The speed of the <Color id="GREEN">Mass Solidifier</Color> increases by 5% per second while active and decreases by 10% per second while inactive. That means it takes 40 seconds of runtime to reach its maximum speed, but only 20 seconds to lose it all. It is highly recommended to multiply patterns and keep the machine running for as long as possible to take full advantage of the boost. 

@@ -30,7 +30,7 @@ The <Color id="GREEN">IWF </Color> has one tiered component. The item pipe casin
 ### Requires:
 
 - 1 <ItemLink id="gregtech:gt.blockmachines:15511" /> <ItemImage id="gregtech:gt.blockmachines:15511" />
-- 14-35 <ItemLink id="miscutils:miscutils.blockcasing:6" /> <ItemImage id="gregtech:gt.blockmachines:15511" />
+- 14-35 <ItemLink id="miscutils:miscutils.blockcasings:6" /> <ItemImage id="miscutils:miscutils.blockcasings:6" />
 - 15 Tiered Glass (any)
 - 3 Item Pipe Casing <ItemImage id="gregtech:gt.blockcasings11:5" />
 - 1+ Energy Hatch (any casing) <ItemImage id="gregtech:gt.blockmachines:40" />

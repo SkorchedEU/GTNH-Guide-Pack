@@ -46,9 +46,9 @@ The <Color id="GREEN">IBM</Color> has no tiered components. Buses/hatches may re
 ## Usage
 The <Color id="GREEN">IBM</Color> is a direct upgrade from the singleblock bending machine because it runs at 600% speed and offers 6 parallels per voltage tier, as seen in the following table.
 
-|   | LV | MV | HV | EV | IV | LuV | ZPM | UV | UHV | UEV | UIV | UMV | UXV | MAX | MAX+ |
-| --------------- | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |
-| Parallels | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 66 | 72 | 78 | 84 | 90 |
+| LV | MV | HV | EV | IV | LuV | ZPM | UV | UHV | UEV | UIV | UMV | UXV | MAX | MAX+ |
+| --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |--------------- |
+| 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 66 | 72 | 78 | 84 | 90 |
 
 
 Input separation should be enabled on the <Color id="GREEN">IBM</Color> to prevent SOLID ingredients in different input buses from being used in the same recipe, including any programmed circuits. That means a single <Color id="GREEN">IBM</Color> with many input buses can support many different programmed circuits simultaneously. Just don't forget to stay above the minimum number of metalworking machine casings.

@@ -56,4 +56,4 @@ _Boosted_
 
 The <Color id="GREEN">LCE</Color> also has its own efficiency value that is directly proportional to the power output of the machine. The efficiency of the <Color id="GREEN">LCE</Color> increases linearly while the machine is active and almost immediately resets back to 0% while the machine is idle. It takes 33s (default) or 100s (boosted) to reach maximum efficiency. View the current efficiency by using a Portable Scanner on the controller, or by looking at the efficiency value in WAILA.
 
-The <Color id="GREEN">LCE</Color> should run for as long as possible but not forever because additional EU is voided once the dynamo hatch is full. The solution is to automatically toggle the <Color id="GREEN">LCE</Color> with an RS latch connected to a Lapotronic Supercapacitor or battery buffer--see the LSC page for a guide on setting that up. 
+The <Color id="GREEN">LCE</Color> should run for as long as possible but not forever because additional EU is voided once the dynamo hatch is full. The solution is to automatically toggle the <Color id="GREEN">LCE</Color> with an RS latch connected to a Lapotronic Supercapacitor or battery buffer.
