@@ -12,7 +12,7 @@ date: 2026-05-16
 
 # Vending Machine
 <GameScene wrap="square" align="right">
-  <ImportStructure src="./vending.snbt"/>
+  <ImportStructure src="./assets/vending.snbt"/>
 </GameScene>
 
  

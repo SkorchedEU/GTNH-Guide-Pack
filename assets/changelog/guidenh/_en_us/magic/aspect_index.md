@@ -2,7 +2,7 @@
 navigation:
   title: Aspect Recipe Index
   parent: magic.md
-  icon: aspectrecipeindex:aspect:{Aspect:ignis}
+  icon: Thaumcraft:ItemShard:1
 categories:
     - Magic Changes
     - Quality Of Life
