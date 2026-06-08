@@ -2,7 +2,7 @@
 This file intends to outline the basic requirements and standards for contributing to the content displayed in game via GuideNH. Since the mod is so new, this guide is heavily subject to frequent change as we improve best practices and is designed **ONLY** to govern officially shipped content.
 
 # Main Guidelines
-1. Quests are designed primarily to provide useful information to the user, aiming to reduce the amount of external resource checking required by the players.
+1. Guides are designed primarily to provide useful information to the user, aiming to reduce the amount of external resource checking required by the players.
 2. Everybody is welcome to contribute to the guide content, not just core maintainers. On the flipside, your work will be checked and has potential to be rejected if deemed unfit, so for larger changes please consult in the #guide-nh-dev channel on discord first. We'd hate for you to work for nothing!
 3. Ideally, you should only change guides on topics you have strong experience in. This obviously does not include for brand new additions, where ideally the author of the changes should be consulted. Exceptions can also be made where the content is just "ported" from some other reputable source, such as the wiki.
 
