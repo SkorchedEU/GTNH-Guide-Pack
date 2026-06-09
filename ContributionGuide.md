@@ -128,7 +128,7 @@ Reference them with a rooted guide path:
 ````
 
 ## Learning the Tags
-In order to make GuideNH as powerful as it is, there are lots of custom tags that can be invoked within the markdown file to give some powerful effects. The full list of tags and how to use them can be found in the wiki, but [this page](https://github.com/GTNewHorizons/GuideNH/blob/master/wiki/Tags-Reference.md) is a really helpful reference to start with!
+In order to make GuideNH as powerful as it is, there are many custom tags that can be invoked within markdown to give some powerful effects. The full list of tags and how to use them can be found in the wiki, but [the Tags Reference](https://github.com/GTNewHorizons/GuideNH/blob/master/wiki/Tags-Reference.md) highlights some of the most important ones to know about.
 
 # Contributing to Guide Content
 Also see the [GTNH Contribution Guide for Beginners](https://wiki.gtnewhorizons.com/wiki/GTNH_Contribution_Guide_for_Beginners) for a more generic guide to contributing.
