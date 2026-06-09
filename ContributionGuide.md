@@ -20,7 +20,7 @@ Some of these should go without saying, but we said them anyway!
 
 # Git Basics
 
-- This is not a Git tutorial. Familiarize yourself a bit with Git before trying to do quest updates.
+- This is not a Git tutorial. Familiarize yourself a bit with Git before trying to do guide updates.
 https://git-scm.com/docs/gittutorial
 https://try.github.io/
 
