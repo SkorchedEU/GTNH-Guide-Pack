@@ -8,8 +8,8 @@ This file intends to outline the basic requirements and standards for contributi
 
 # Further Guidelines
 Some of these should go without saying, but we said them anyway!
-1. Guides should primarily be used to inform players, not dictate their style of play. Avoid statements like "X is better than Y", regardless of how true they are
-2. "Puzzles" (such as waterline, or complex automations) should not have direct solving guides in the bundled content. The community is free to use this guide to contribute to a community project for such content, but it will not be shipped by default
+1. Guides should primarily be used to inform players, not dictate their style of play. Avoid statements like "X is better than Y", regardless of how true they may be.
+2. "Puzzles" (such as waterline, or complex automations) should not have direct solutions in the official guides. The community is free to use this guide to contribute to a community project for such content, but it will not be shipped by default.
 3. Guides should be categorised sensibly, either by the mod they fit in (GT5 for EBF for example), or some other coherent theme (such as a changelog). Bear in mind that pages can be assigned multiple categories.
 4. This should be blindingly obvious, but do not include swearing, offensive, or generally any political content in guides. This is a safe space for players to avoid the outside world, don't bring it back in!
 5. All image names should be written in snake case: `this_is_an_example_name.png`
