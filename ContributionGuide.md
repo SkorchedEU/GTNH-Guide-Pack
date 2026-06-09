@@ -16,7 +16,6 @@ Some of these should go without saying, but we said them anyway!
 6. Any external URL links should be to content produced by GTNH as an organisation, unless given explicit authorisation from a developer to do so.
 7. If you have any further questions on contribution, please ask in #guide-nh-dev on Discord.
 
-# Working in Guide Language
 
 # Git Basics
 
