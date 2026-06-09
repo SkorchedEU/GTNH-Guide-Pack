@@ -129,6 +129,7 @@ Reference them with a rooted guide path:
 In order to make GuideNH as powerful as it is, there are lots of custom tags that can be invoked within the markdown file to give some powerful effects. The full list of tags and how to use them can be found in the wiki, but [this page](https://github.com/GTNewHorizons/GuideNH/blob/master/wiki/Tags-Reference.md) is a really helpful reference to start with!
 
 # Contributing to Guide Content
+Also see the [GTNH Contribution Guide for Beginners](https://wiki.gtnewhorizons.com/wiki/GTNH_Contribution_Guide_for_Beginners) for a more generic guide to contributing.
 1. Fork the GTNH-Guide-Pack repo to your github account. This is not actually needed if Dream has added you as a developer.
 2. Add the repo to your GitHub Desktop by clicking `Code` and then `Open with GitHub Desktop`. When asked, choose `contribute to parent repo`. That way new branches are automatically based on the GTNewHorizons/GTNH-Guide-Pack master branch.
 3. Before you begin making changes, you want to click `Fetch origin` to get the latest updates and then start a new branch (`Branch`, then `New Branch`). If you followed 2. that will automatically be based on the GTNewHorizons/GT-New-Horizons-Modpack master branch.
