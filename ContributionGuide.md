@@ -14,7 +14,7 @@ Some of these should go without saying, but we said them anyway!
 4. This should be blindingly obvious, but do not include swearing, offensive, or generally any political content in guides. This is a safe space for players to avoid the outside world, don't bring it back in!
 5. All image names should be written in snake case: `this_is_an_example_name.png`
 6. Any external URL links should be to content produced by GTNH as an organisation, unless given explicit authorisation from a developer to do so.
-7. If you have any further questions on contribution, please ask in #guide-nh-dev in the discord.
+7. If you have any further questions on contribution, please ask in #guide-nh-dev on Discord.
 
 # Working in Guide Language
 
