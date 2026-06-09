@@ -76,8 +76,10 @@ so that TXLoader can correctly retrieve the content
 ## Frontmatter Headers
 The frontmatter navigation data must be the **first** thing in each markdown file. The smallest useful frontmatter for navigation is:
 ```yaml
+---
 navigation:
   title: Root
+---
 ```
 
 There are many more things you can put in your header, including linking item ids for the "Hold [G]" mechanic, categorisation, adding to recommended page, and more. A "full" example is shown below to give an idea:
