@@ -137,12 +137,13 @@ Also see the [GTNH Contribution Guide for Beginners](https://wiki.gtnewhorizons.
 3. Before making changes, first click `Fetch origin` to get the latest updates. Then start a new branch (`Branch`, then `New Branch`). If you followed step 2, it will automatically be based on the GTNewHorizons/GT-New-Horizons-Modpack master branch.
 4. Start GTNH. You need the full modpack, not a mod development environment. The [latest daily version](https://github.com/GTNewHorizons/DreamAssemblerXXL/actions/workflows/daily-modpack-build.yml) is recommended. You should also check that you are using the latest GuideNH version from https://github.com/GTNewHorizons/GuideNH/releases. You should only use normal releases, not ones with a version ending in `-pre`.
 5. Ideally do one guide or change per commit. Doing regular commits makes it easy to review your changes or to revert specific things! It also backs up your work.
-13. Once finished, compare the resulting changes and make sure everything is as expected. by copying this changed repository locally into your game resource packs and loading the guide.
-14. Then publish your branch and make a PR to the GTNewHorizons/GTNH-Guide-Pack master branch. For example you can go to your forked repo on github and make sure your branch has shown up there. An option should show up there to "create pull request".
-15. List all your changes in the description of the PR. And add screenshots where useful.
-16. Write 'fixes #issue' in the PR description to automatically link a ticket to the PR.
-17. If changes to your PR are required, you can just make more commits on your branch and push them. Make sure to comment on the changes in the description.
-18. After the PR is merged, you can delete your branch.
+6. Once finished. copy your changed repository into your game's resource packs folder. Load the guide (explained in the New Guides section) to ensure everything works as expected.
+7. Push your branch to GitHub, and make a PR to the GTNewHorizons/GTNH-Guide-Pack master branch. You can go to your forked repo on GitHub to make sure your branch has shown up there. An option should appear to "Open pull request" (you may need to click the "Contribute" button).
+8. Explain all of your changes in the description of the PR. Add screenshots/videos where useful.
+9. Write 'fixes [ISSUE LINK]' in the PR description to automatically link a ticket to the PR.
+10. Occasionally check on your PR. If changes are requested, you can simply make more commits on your branch and push them to your GitHub repo. Respond to a comment if you feel it needs more discussion, or mark it as resolved after you make and push the requested change. Once all comments have been addressed, feel free to press the "Re-request review" button in the Reviewers section on the right.
+11. Small PRs often only need to be reviewed once, but some may need to be reviewed multiple times depending on their size and scope.
+12. After the PR is approved and merged, you can delete your branch.
 
 # New Guides
 1. Create a new `<fileName>.md` file within the directory you want this guide to be a part of. This will be the main file you edit, and what is displayed to the player. Ensure that your file is within the correct lang directory for what you intend to write (e.g. inside `_en_us` for American English). If you are creating a new category, make sure you have discussed it with the team in discord, and see above for configuration tips.
