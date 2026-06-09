@@ -41,7 +41,7 @@ https://try.github.io/
 - Pull - An action to retrieve new commits from the remote repo and put them into your local repo, updating your version of the branch to match the remote repo.
 - Rebase - This takes the changes done in your local branch, and redoes them on top of the selected commit. Do this to include new changes from the original branch in your modified branch.  IE, you are adding guides to the pack, and someone pushes a config change (unrelated to your guides) to master. Checkout your branch. Right-click on the commit for the master branch, select Rebase, and now your guide changes will be on top of the new config change. Ideally there should be no conflicts. If there is a conflict, flag staff.
 - Merge - This has to be done when two people are editing the same file. Ideally this should be avoided.
-- Pull Request (PR) - Once you have completed your changes, publish your branch to your forked repo. On github, you can goto your forked repo page and do a Pull Request to send the branch to the source repo owners and ask permission for them to add the changes to a branch of their repo, e.g. upstream/master.
+- Pull Request (PR) - Once you have completed your changes, push your branch to your forked repo. On GitHub, you can go to your forked repo page to create a Pull Request to send the branch to the source repo owners and ask permission for them to add the changes to a branch of their repo, e.g. upstream/master.
 
 # Working on Guides for GTNH with GitHub Desktop
 GuideNH works using a mixture of common languages as outlined below:
