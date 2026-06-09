@@ -4,7 +4,7 @@ This file intends to outline the basic requirements and standards for contributi
 # Main Guidelines
 1. Guides are designed primarily to provide useful information to the user, aiming to reduce the amount of external resource checking required by the players.
 2. Everybody is welcome to contribute to the guide content, not just core maintainers. Be aware that your work will be checked and there is the potential for it to be rejected if deemed unfit, so for larger changes please consult in the [#guide-nh-dev channel](https://discord.com/channels/181078474394566657/1512570051494940722) on Discord first. We'd hate for you to work for nothing!
-3. Ideally, you should only change guides on topics you have strong experience in. This obviously does not include for brand new additions, where ideally the author of the changes should be consulted. Exceptions can also be made where the content is just "ported" from some other reputable source, such as the wiki.
+3. Ideally, you should only change guides on topics you have strong experience in. This obviously does not include brand new additions, where ideally the author(s) of the changes will be consulted. Exceptions can also be made where the content is just "ported" from some other reputable source, such as [the wiki](https://wiki.gtnewhorizons.com/).
 
 # Further Guidelines
 Some of these should go without saying, but we said them anyway!
