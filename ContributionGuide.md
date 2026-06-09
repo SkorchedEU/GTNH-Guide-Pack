@@ -84,6 +84,7 @@ navigation:
 There are many more things you can put in your header, including linking item ids for the "Hold [G]" mechanic, categorisation, adding to recommended page, and more. A "full" example is shown below to give an idea:
 
 ```yaml
+---
 item_ids:
   - gregtech:gt.blockmachines:15529
   - gregtech:gt.blockmachines:15530
@@ -98,6 +99,7 @@ categories:
     - New Multiblocks
 author: Skorched
 date: 2026-05-27
+---
 ```
 
 ## Adding Assets
