@@ -63,7 +63,7 @@ wiki/resourcepack/
             `-- _en_us/
                 `-- index.md
 ```
-When integrating into the pack directly through TXLoader, it should be as:
+When integrating with the pack directly through TXLoader, it should be:
 ```text
 config/txloader/load/
 `-- <modid>/
