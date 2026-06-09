@@ -45,10 +45,10 @@ https://try.github.io/
 
 # Working on Guides for GTNH with GitHub Desktop
 GuideNH works using a mixture of common languages as outlined below:
-- MDX - A markdown format that allows writing of JSX in markdown documents. For the majority of content, this can be seen as just markdown with some special tags with some in game uses (see below for more)
-- YAML (frontmatter) - A markup language used to add metadata at the top of each markdown file to designate navigation data, title and more.
-- SNBT - A minecraft specific data format primarily used as a representation of NBT data to be imported into the guide. Primarily used to add 3D structures into the guide pages
-- JSON - A readable (ish) text format for storing data in object form. Used primarily for storing the keyframes of "Ponder" animations.
+- [MDX](https://mdxjs.com/) - A markdown format that allows writing of JSX in markdown documents. For the majority of content, this can be seen as standard markdown with some additional tags for in-game usage (see below for more).
+- [YAML](https://yaml.org/) ([frontmatter](https://dev.to/dailydevtips1/what-exactly-is-frontmatter-123g)) - A markup language used to add metadata at the top of each markdown file to designate navigation data, titles, categories, and more.
+- [SNBT](https://minecraft.wiki/w/NBT_format#SNBT_format) - A Minecraft-specific data format used as a representation of NBT data to be imported into the guide. Primarily used to add 3D structures into the guide pages.
+- [JSON](https://www.json.org/json-en.html) - A readable (ish) text format for storing data in object form. Used primarily for storing the keyframes of "Ponder" animations.
 
 ## Getting Started
 The general file layout of a guide with a single page is as follows:
