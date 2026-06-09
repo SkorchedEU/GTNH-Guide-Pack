@@ -132,7 +132,7 @@ In order to make GuideNH as powerful as it is, there are many custom tags that c
 
 # Contributing to Guide Content
 Also see the [GTNH Contribution Guide for Beginners](https://wiki.gtnewhorizons.com/wiki/GTNH_Contribution_Guide_for_Beginners) for a more generic guide to contributing.
-1. Fork the GTNH-Guide-Pack repo to your github account. This is not actually needed if Dream has added you as a developer.
+1. For new contributors, fork the [GTNH-Guide-Pack repo](https://github.com/GTNewHorizons/GTNH-Guide-Pack) to your GitHub account. Members of the [GTNewHorizons GitHub organization](https://github.com/orgs/GTNewHorizons/people) are recommended to make a branch in this repo instead.
 2. Add your new repo to GitHub Desktop by clicking `Code` and then `Open with GitHub Desktop`. When asked, choose `contribute to parent repo`. That way, new branches are automatically based on the GTNewHorizons/GTNH-Guide-Pack master branch.
 3. Before you begin making changes, you want to click `Fetch origin` to get the latest updates and then start a new branch (`Branch`, then `New Branch`). If you followed 2. that will automatically be based on the GTNewHorizons/GT-New-Horizons-Modpack master branch.
 4. Start GTNH. You need the full game (the latest release or a nightly version), not a development environment. You should also check that you are using the latest GuideNH version from https://github.com/GTNewHorizons/GuideNH/releases (you should only use normal versions, not pre-versions).
