@@ -24,7 +24,7 @@ Some of these should go without saying, but we said them anyway!
 https://git-scm.com/docs/gittutorial
 https://try.github.io/
 
-- As an alternate to using Git from the command line, you can use GitHub Desktop as a GUI. It makes things very simple, and you don't need to remember any commands. We will focus on that option in the following.
+- As an alternative to using Git from the command line, you can use [GitHub Desktop](https://desktop.github.com/download/) as a GUI. It makes things very simple, and you don't need to remember any commands. [IntelliJ](https://www.jetbrains.com/idea/download/) is also capable of interacting with Git if you already use it (or plan to use it) for mod development. This guide will focus on using GitHub Desktop.
 
 
 # Git Definitions
